@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.div {
+  margin: 20px;
+  border-radius: 10px;
+  border: 5px solid rgb(39, 38, 38);
+  padding: 10px;
+  background-color: lightcoral;
+  color: rgb(48, 47, 49);
+  text-transform: capitalize;
+}
